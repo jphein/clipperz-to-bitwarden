@@ -1,0 +1,5 @@
+# Never commit exports — they are plaintext credential dumps
+*.json
+*.csv
+*.html
+!/dev/null
