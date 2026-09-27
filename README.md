@@ -20,3 +20,7 @@ Password migration from legacy managers into a self-hosted Vaultwarden instance.
 
 ## Files
 - `clipperz_to_bitwarden.py` — Clipperz HTML+JSON to Bitwarden JSON converter
+
+## License
+
+AGPL-3.0-or-later © 2026 Jeffrey Pine Hein. See [LICENSE](LICENSE).
